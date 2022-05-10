@@ -25,7 +25,7 @@ export default function Navbar(props) {
             <a className="nav-link" href="#">
               Login
             </a>
-            <a className="nav-link" href="#" tabindex="-1" aria-disabled="true">
+            <a className="nav-link" href="#" tabIndex="-1" aria-disabled="true">
               <i className="fa-solid fa-cart-shopping"></i>
             </a>
           </div>
